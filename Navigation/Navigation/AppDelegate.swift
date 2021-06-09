@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  UiAppWork
+//  Navigation
 //
 //  Created by Bikbulatov Timur Ruslanovich on 09.06.2021.
 //
