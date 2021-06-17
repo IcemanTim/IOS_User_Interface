@@ -8,12 +8,16 @@
 
 import UIKit
 
+struct Post {
+    var title: String
+}
+
 class PostViewController: UIViewController {
+    
+    var postObject = Post(title: "")
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.title = postObject.title
     }
-
-
 }
